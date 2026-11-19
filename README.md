@@ -1,2 +1,2 @@
-# Comapeo
-for Vietnamese users of Comapeo (formerly Mapeo)
+# CoMapeo
+for Vietnamese users of CoMapeo (formerly Mapeo)
